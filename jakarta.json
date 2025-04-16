@@ -33702,7 +33702,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Sudirman 7.8"
+      },
       "geometry": {
         "coordinates": [
           106.82058101838544,
